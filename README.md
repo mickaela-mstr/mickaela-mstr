@@ -1,16 +1,25 @@
-## Hi there 👋
+# Salut, c'est Micka 👋
 
-<!--
-**mickaela-mstr/mickaela-mstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiante en master 2 traitement automatique des langues (natural language processing) à Sorbonne Nouvelle, INALCO et Nanterre Université.
 
-Here are some ideas to get you started:
+## 🔬 Projets NLP / TAL en cours dans ma formation
+- **Traduction guarani → espagnol** : récupération et nettoyage de corpus alignés et exploration de modèles adaptés au low-resource MT.
+- **Mini-BERT musique irlandaise** : pré-entraînement sur corpus de 200k morceaux + classification des genres (reel, jig, hornpipe…).
+- et d'autres...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Game Dialogue NLP (projet perso)
+- Scripts d’annotation automatique des dialogues de Life is Strange 1 (sentiment + émotions) via Transformers.  
+- Pipeline configurable : batch, choix du dataset, export CSV annoté.  
+- Outils d’exploration : visualisation des sentiments, inspection qualitative.  
+- Préparation d’un futur modèle de classification multi-étiquette sur dialogues narratifs.
+
+
+## 📝 Projets universitaires
+- **Fouille de textes** : classification (NB, SVM, arbres), slot filling, métriques (précision, rappel, Gini, etc.).
+- **Scraping Poképédia** : extraction des descriptions + types des 151 Pokémon pour un classifieur supervisé.
+
+## 🛠️ Outils & Tech
+- Python, SQL, XML/XSLT, JSON, Pickle...
+- Keras, Pytorch, Scikit-learn, Transformers...  
+- Git
+
